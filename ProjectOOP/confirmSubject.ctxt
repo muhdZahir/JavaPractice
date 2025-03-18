@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=confirmSubject
+comment1.params=selectedSubjects
+comment1.target=confirmSubject(java.util.Set)
+comment2.params=
+comment2.target=void\ showConfirmationDialog()
+comment3.params=
+comment3.target=java.util.Set\ getSelectedSubjects()
+comment4.params=
+comment4.target=void\ openTimetable()
+numComments=5
