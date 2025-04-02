@@ -1,0 +1,30 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Exception.java to edit this template
+ */
+package guiprojectoct2024;
+
+/**
+ *
+ * @author Othman Family
+ */
+public class InvalidNumberException extends Exception {
+
+    /**
+     * Creates a new instance of <code>NegativeNumberException</code> without
+     * detail message.
+     */
+    public InvalidNumberException() {
+        super();
+    }
+    
+    /**
+     * Constructs an instance of <code>NegativeNumberException</code> with the
+     * specified detail message.
+     *
+     * @param msg the detail message.
+     */
+    public InvalidNumberException(String msg) {
+        super(msg);
+    }
+}
