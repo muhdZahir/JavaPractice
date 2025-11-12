@@ -1,0 +1,3 @@
+Highest and lowest quantity of the product
+Highest quantity of product: 189
+Lowest quantity of product: 30
